@@ -1,7 +1,7 @@
 <p align="center">
   <strong>welcome in my profile.</strong></p>
 <p align="center">
-  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/github/followers/SpicyChrii?style=for-the-badge" width="130" height="28"/>
+  <img style="display: block; margin-left: auto; margin-right: auto;" src="https://img.shields.io/github/followers/Satellq?style=for-the-badge" width="130" height="28"/>
 </p>
 <hr />
 <p align="center">
@@ -17,7 +17,7 @@
 <p align="center">
   <strong>statistics.</strong></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpicyChrii&amp;show_icons=true&amp;theme=radical" alt="" width="495" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satellq&amp;show_icons=true&amp;theme=radical" alt="" width="495" height="195" />
 </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/684035746432286764.png" alt="" width="395" height="80" />
